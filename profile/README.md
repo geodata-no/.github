@@ -13,6 +13,7 @@ At Geodata AS, we believe in the power of geographic data and technology to see 
 
 We sponsor open source projects that we use and love. Currently our developers have selected these fantastic projects:
 
+- [Ant Design](https://github.com/ant-design/ant-design)
 - [Axios](https://github.com/axios/axios)
 - [Cachetools](https://github.com/tkem/cachetools)
 - [Curl](https://github.com/curl/curl)
