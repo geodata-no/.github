@@ -13,17 +13,9 @@ At Geodata AS, we believe in the power of geographic data and technology to see 
 
 We sponsor open source projects that we use and love. Currently our developers have selected these fantastic projects:
 
-- [Ant Design](https://github.com/ant-design/ant-design)
-- [Axios](https://github.com/axios/axios)
-- [Cachetools](https://github.com/tkem/cachetools)
-- [Curl](https://github.com/curl/curl)
-- [CsvHelper](https://github.com/JoshClose/CsvHelper)
-- [FastAPI](https://github.com/fastapi/fastapi)
-- [Flask](https://github.com/pallets/flask) / [Click](https://github.com/pallets/click)
-- [Moq](https://github.com/devlooped/moq)
-- [Magick.NET](https://github.com/dlemstra/Magick.NET)
-- [NumFocus](https://github.com/numfocus)
-- [Prettier](https://github.com/prettier/prettier)
-- [TanStack](https://github.com/TanStack)
-- [Traefik](https://github.com/traefik/traefik)
-- [xUnit](https://github.com/xunit/xunit)
+| | | | |
+|---|---|---|---|
+| [Ant Design](https://github.com/ant-design/ant-design) | [CsvHelper](https://github.com/JoshClose/CsvHelper) | [Magick.NET](https://github.com/dlemstra/Magick.NET) | [Traefik](https://github.com/traefik/traefik) |
+| [Axios](https://github.com/axios/axios) | [FastAPI](https://github.com/fastapi/fastapi) | [NumFocus](https://github.com/numfocus) | [xUnit](https://github.com/xunit/xunit) |
+| [Cachetools](https://github.com/tkem/cachetools) | [Flask](https://github.com/pallets/flask) / [Click](https://github.com/pallets/click) | [Prettier](https://github.com/prettier/prettier) | |
+| [Curl](https://github.com/curl/curl) | [Moq](https://github.com/devlooped/moq) | [TanStack](https://github.com/TanStack) | |
